@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "061caa3f-81f8-4196-9906-13858a6b2a61": {
+      "ProjectGuid": "061caa3f-81f8-4196-9906-13858a6b2a61",
+      "DisplayName": "Asynchronous",
+      "ColorIndex": 0
+    },
+    "272f9cbc-1b29-40ef-9410-392b29dbce06": {
+      "ProjectGuid": "272f9cbc-1b29-40ef-9410-392b29dbce06",
+      "DisplayName": "Mulththreading",
+      "ColorIndex": 1
+    },
+    "d0dca2fb-d1cd-440f-925b-1074d00bdccc": {
+      "ProjectGuid": "d0dca2fb-d1cd-440f-925b-1074d00bdccc",
+      "DisplayName": "SingleThread",
+      "ColorIndex": 2
+    },
+    "518da0c1-ac12-4b67-a2a6-a4854b0dc052": {
+      "ProjectGuid": "518da0c1-ac12-4b67-a2a6-a4854b0dc052",
+      "DisplayName": "MultithreadExample",
+      "ColorIndex": 3
+    },
+    "7ce8d4c0-e4ea-42f6-bde9-285ee83b7ae6": {
+      "ProjectGuid": "7ce8d4c0-e4ea-42f6-bde9-285ee83b7ae6",
+      "DisplayName": "AnotherExampleAsync",
+      "ColorIndex": 4
+    },
+    "a1585250-3f4e-4585-bdba-e070c0475ef5": {
+      "ProjectGuid": "a1585250-3f4e-4585-bdba-e070c0475ef5",
+      "DisplayName": "MulththreadingNewExample",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
